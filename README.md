@@ -17,6 +17,7 @@ W3school的教程对于入门还是非常够用的，**里面的示例一定要�
 
 > 扩展学习：
 > - [Codecademy-HTML/CSS](https://www.codecademy.com/learn/web)
+> - [W3school-PHP(后端学有余力同学)](http://www.w3school.com.cn/css/index.asp)
 
 ### Linux基础（运维）
 这一周先跟着实验楼的教程争取走一遍。
