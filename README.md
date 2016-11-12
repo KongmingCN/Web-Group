@@ -43,3 +43,13 @@ W3school的教程对于入门还是非常够用的，**里面的示例一定要�
 
 > 扩展学习：
 > - [鸟哥私房菜服务器篇WWW章](http://cn.linux.vbird.org/linux_server/#part4)
+
+## Week 2
+### 教师个人主页设计（前端）
+
+### Wordpress基础（后端）
+- [Wordpress入门教程](https://www.wpdaxue.com/series/wordpress-start/)
+- [从零制作Wordpress主题](http://blog.wpjam.com/article/wp-theme-lessons/)
+- [Wordpress主题制作全过程](http://www.ludou.org/create-wordpress-themes-prepare.html)
+
+### 教师个人主页机制更新（运维）
