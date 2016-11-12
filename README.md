@@ -53,3 +53,8 @@ W3school的教程对于入门还是非常够用的，**里面的示例一定要�
 - [Wordpress主题制作全过程](http://www.ludou.org/create-wordpress-themes-prepare.html)
 
 ### 教师个人主页机制更新（运维）
+
+## Week 3
+### 数彩飞扬网页设计（前端）
+
+### 用Wordpress搭数彩飞扬网站（后端）
