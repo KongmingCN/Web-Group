@@ -34,7 +34,7 @@ W3school的教程对于入门还是非常够用的，**里面的示例一定要�
 - 后端同学完成一个通讯录小项目，只要求具备增删改查四项基本功能，重点放在后台PHP的代码。
 > 需要的知识储备：
 > - [W3school-PHP](http://www.w3school.com.cn/php/index.asp)
-> - [W3school-MySQL]((http://www.w3school.com.cn/php/php_mysql_intro.asp)
+> - [W3school-MySQL](http://www.w3school.com.cn/php/php_mysql_intro.asp)
 
 ### Linux基础（运维）
 这周实验楼教程看完，鸟哥尽量看，这周找个时间就开始迁移学院网站。
