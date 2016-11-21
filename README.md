@@ -7,6 +7,13 @@ Learning, recording and sharing.
 - [Github教程（廖雪峰）](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137628548491051ccfaef0ccb470894c858999603fedf000)
 - [Markdown语法说明](http://wowubuntu.com/markdown/) 这篇文章就是Markdown标记语言写的。
 
+## 工具篇
+快快扔掉记事本吧！
+- [Notepad++](http://backlogtool.com/git-guide/cn/) 结合Figertext等代码片段插件堪称网页神器
+- [Sublime Text配置与使用](https://link.zhihu.com/?target=https%3A//www.zybuluo.com/king/note/47271) 最性感的编辑器
+- [Webstorm](https://link.zhihu.com/?target=https%3A//www.jetbrains.com/webstorm/) 功能强大，学生可以免费用的前端IDE
+- [线上前端代码查错](https://validator.w3.org/#validate-by-input)
+
 ## Week 0
 ### HTML-CSS（前段/后端）
 W3school的教程对于入门还是非常够用的，**里面的示例一定要点开看**，这个的缺点就是读者只是跟着看，**最好能够跟着教程边看边写**。
@@ -45,9 +52,12 @@ W3school的教程对于入门还是非常够用的，**里面的示例一定要�
 > - [鸟哥私房菜服务器篇WWW章](http://cn.linux.vbird.org/linux_server/#part4)
 
 ## Week 2
-### 教师个人主页设计（前端）
+### 完成FREECODECAMP部分教程（前端）
+这个网站是个网站工程师的训练网站，结合了当前主流的几乎全部的web技术，这周先完成基本任务，以后有时间建议把这个通关，然后就NB了，后端也是。
+- [FreeCodeCamp-HTML5与CSS篇](https://www.freecodecamp.cn/challenges/say-hello-to-html-element)
 
 ### Wordpress基础（后端）
+后端这周根据XAMPP的内容自己搭起一个本地wordpress，并演练下面教程中的内容。这周好好做，估计周末要和老师搭数彩飞扬了。
 - [Wordpress入门教程](https://www.wpdaxue.com/series/wordpress-start/)
 - [从零制作Wordpress主题](http://blog.wpjam.com/article/wp-theme-lessons/)
 - [Wordpress主题制作全过程](http://www.ludou.org/create-wordpress-themes-prepare.html)
